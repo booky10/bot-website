@@ -1,2 +1,2 @@
 # bot-website
-Website for the bookyBot
+Website for the bookyBot, Template by ColorLib.
